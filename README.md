@@ -1,7 +1,8 @@
 # Frequency-aware conformal calibration for temporal knowledge graph forecasting
 
-Code for the AISTATS 2027 submission *Conformal Prediction over Open, Drifting Label Spaces:
-Frequency-Aware Calibration for Temporal Knowledge Graph Forecasting* (anonymous).
+ *Conformal Prediction under Cold and Drifting Answer Populations:
+Frequency-Aware Calibration for Temporal Knowledge Graph
+Forecasting* (anonymous).
 
 All calibration methods run on stored forecaster scores, so every method in a comparison sees
 exactly the same predictive distribution.
