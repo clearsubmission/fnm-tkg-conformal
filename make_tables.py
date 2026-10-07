@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 r"""
 make_tables.py - turn cp_harness JSON outputs into LaTeX macros + tables, so every number in the
-paper comes from one place (the AISTATS AI review checks text/table consistency).
+paper comes from one place.
 
 Usage:
   python make_tables.py --alpha 0.1 --out paper/results \
